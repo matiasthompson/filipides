@@ -1,0 +1,42 @@
+[2020-04-27T15:27:17.303] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:27:17.304] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:27:17.305] [INFO] console - Mongoose event connecting
+[2020-04-27T15:27:17.308] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 83
+[2020-04-27T15:27:18.576] [INFO] console - Mongoose event connected
+[2020-04-27T15:27:18.579] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:27:18.580] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:36:43.293] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:36:43.295] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:36:43.296] [INFO] console - Mongoose event connecting
+[2020-04-27T15:36:43.300] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 455
+[2020-04-27T15:36:44.687] [INFO] console - Mongoose event connected
+[2020-04-27T15:36:44.689] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:36:44.689] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:37:31.122] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:37:31.124] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:37:31.125] [INFO] console - Mongoose event connecting
+[2020-04-27T15:37:31.128] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 524
+[2020-04-27T15:37:32.364] [INFO] console - Mongoose event connected
+[2020-04-27T15:37:32.366] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:37:32.366] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:51:17.328] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:51:17.335] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:51:17.338] [INFO] console - Mongoose event connecting
+[2020-04-27T15:51:17.349] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-27T15:51:18.690] [INFO] console - Mongoose event connected
+[2020-04-27T15:51:18.691] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:51:18.691] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T16:04:17.916] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T16:04:17.921] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T16:04:17.923] [INFO] console - Mongoose event connecting
+[2020-04-27T16:04:17.931] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-27T16:04:19.172] [INFO] console - Mongoose event connected
+[2020-04-27T16:04:19.173] [INFO] console - Mongoose event fullsetup
+[2020-04-27T16:04:19.174] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T16:53:10.888] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T16:53:10.889] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T16:53:10.890] [INFO] console - Mongoose event connecting
+[2020-04-27T16:53:10.893] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-27T16:53:12.285] [INFO] console - Mongoose event connected
+[2020-04-27T16:53:12.286] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T16:53:12.296] [INFO] console - Mongoose event fullsetup

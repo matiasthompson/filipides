@@ -1,0 +1,26 @@
+[2020-04-21T12:40:10.865] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-21T12:40:10.869] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-21T12:40:10.870] [INFO] console - Mongoose event connecting
+[2020-04-21T12:40:10.875] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 78
+[2020-04-21T12:40:12.257] [INFO] console - Mongoose event connected
+[2020-04-21T12:40:12.260] [INFO] console - Mongoose event fullsetup
+[2020-04-21T12:40:12.261] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-21T12:41:31.743] [ERROR] http - 190.211.159.224 - - "GET /filipides/api HTTP/1.1" 404 152 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:44:26.983] [ERROR] http - 190.211.159.224 - - "GET /filipides/api HTTP/1.1" 404 152 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:44:29.792] [ERROR] http - 190.211.159.224 - - "GET /filipides/api HTTP/1.1" 404 152 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:44:33.424] [ERROR] http - 190.211.159.224 - - "GET /filipides/api HTTP/1.1" 404 152 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:44:33.723] [ERROR] http - 190.211.159.224 - - "GET /filipides/api HTTP/1.1" 404 152 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:44:42.029] [ERROR] http - 190.211.159.224 - - "GET /filipides/ HTTP/1.1" 404 149 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:44:53.484] [ERROR] http - 190.211.159.224 - - "GET /spi HTTP/1.1" 404 142 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:45:01.284] [ERROR] http - 190.211.159.224 - - "GET /api HTTP/1.1" 404 142 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:56:36.270] [ERROR] http - 190.211.159.224 - - "GET /api HTTP/1.1" 404 142 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js:172-174" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:56:56.104] [ERROR] http - 190.211.159.224 - - "GET /api HTTP/1.1" 404 142 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:57:17.598] [ERROR] http - 190.211.159.224 - - "GET /api HTTP/1.1" 404 142 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T12:57:18.728] [ERROR] http - 190.211.159.224 - - "GET /api HTTP/1.1" 404 142 "https://codesandbox.io/s/filipides-sk1f1?file=/app/router/filipidesRouter.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0"
+[2020-04-21T15:05:55.041] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-21T15:05:55.043] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-21T15:05:55.044] [INFO] console - Mongoose event connecting
+[2020-04-21T15:05:55.049] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 77
+[2020-04-21T15:05:56.717] [INFO] console - Mongoose event connected
+[2020-04-21T15:05:56.739] [INFO] console - Mongoose event fullsetup
+[2020-04-21T15:05:56.739] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)

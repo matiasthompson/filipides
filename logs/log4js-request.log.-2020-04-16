@@ -1,0 +1,21 @@
+[2020-04-16T15:04:16.264] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-16T15:04:16.266] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-16T15:04:16.267] [INFO] console - Mongoose event connecting
+[2020-04-16T15:04:16.272] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 78
+[2020-04-16T15:04:17.888] [INFO] console - Mongoose event connected
+[2020-04-16T15:04:17.889] [INFO] console - Mongoose event fullsetup
+[2020-04-16T15:04:17.890] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-16T16:36:02.780] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-16T16:36:02.787] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-16T16:36:02.789] [INFO] console - Mongoose event connecting
+[2020-04-16T16:36:02.805] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-16T16:36:05.025] [INFO] console - Mongoose event connected
+[2020-04-16T16:36:05.026] [INFO] console - Mongoose event fullsetup
+[2020-04-16T16:36:05.026] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-16T22:09:40.583] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-16T22:09:40.585] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-16T22:09:40.585] [INFO] console - Mongoose event connecting
+[2020-04-16T22:09:40.641] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-16T22:09:42.055] [INFO] console - Mongoose event connected
+[2020-04-16T22:09:42.060] [INFO] console - Mongoose event fullsetup
+[2020-04-16T22:09:42.062] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)

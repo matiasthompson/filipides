@@ -1,0 +1,487 @@
+[2020-04-14T12:32:57.398] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:32:57.400] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:32:57.401] [INFO] console - Mongoose event connecting
+[2020-04-14T12:32:57.407] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 317
+[2020-04-14T12:32:57.410] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:32:57.411] [INFO] console - Mongoose event error
+[2020-04-14T12:32:57.411] [INFO] console - Mongoose event { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/sandbox/node_modules/mongodb-core/lib/topologies/server.js:431:11)
+    at Pool.emit (events.js:198:13)
+    at connect (/sandbox/node_modules/mongodb-core/lib/connection/pool.js:557:14)
+    at makeConnection (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:25:9)
+    at callback (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:261:5)
+    at Socket.err (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:286:7)
+    at Object.onceWrapper (events.js:286:20)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T12:33:39.191] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:33:39.192] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:33:39.192] [INFO] console - Mongoose event connecting
+[2020-04-14T12:33:39.199] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 379
+[2020-04-14T12:33:39.202] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:33:39.203] [INFO] console - Mongoose event error
+[2020-04-14T12:33:39.203] [INFO] console - Mongoose event { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/sandbox/node_modules/mongodb-core/lib/topologies/server.js:431:11)
+    at Pool.emit (events.js:198:13)
+    at connect (/sandbox/node_modules/mongodb-core/lib/connection/pool.js:557:14)
+    at makeConnection (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:25:9)
+    at callback (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:261:5)
+    at Socket.err (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:286:7)
+    at Object.onceWrapper (events.js:286:20)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T12:36:04.378] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:36:04.380] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:36:04.380] [INFO] console - Mongoose event connecting
+[2020-04-14T12:36:04.387] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 508
+[2020-04-14T12:36:04.392] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:36:04.393] [INFO] console - Mongoose event error
+[2020-04-14T12:36:04.393] [INFO] console - Mongoose event { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/sandbox/node_modules/mongodb-core/lib/topologies/server.js:431:11)
+    at Pool.emit (events.js:198:13)
+    at connect (/sandbox/node_modules/mongodb-core/lib/connection/pool.js:557:14)
+    at makeConnection (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:25:9)
+    at callback (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:261:5)
+    at Socket.err (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:286:7)
+    at Object.onceWrapper (events.js:286:20)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T12:39:03.029] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:39:03.030] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:39:03.030] [INFO] console - Mongoose event connecting
+[2020-04-14T12:39:03.037] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 636
+[2020-04-14T12:39:13.038] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:39:13.039] [INFO] console - Mongoose event error
+[2020-04-14T12:39:13.039] [INFO] console - Mongoose event { MongoNetworkError: failed to connect to server [192.168.0.5:27017] on first connect [MongoNetworkError: connection timed out]
+    at Pool.<anonymous> (/sandbox/node_modules/mongodb-core/lib/topologies/server.js:431:11)
+    at Pool.emit (events.js:198:13)
+    at connect (/sandbox/node_modules/mongodb-core/lib/connection/pool.js:557:14)
+    at makeConnection (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:25:9)
+    at callback (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:261:5)
+    at Socket.err (/sandbox/node_modules/mongodb-core/lib/connection/connect.js:286:7)
+    at Object.onceWrapper (events.js:286:20)
+    at Socket.emit (events.js:198:13)
+    at Socket._onTimeout (net.js:443:8)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T12:40:09.105] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:40:09.106] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:40:09.107] [INFO] console - Mongoose event connecting
+[2020-04-14T12:40:09.115] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 775
+[2020-04-14T12:40:19.118] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:40:19.119] [INFO] console - Mongoose event error
+[2020-04-14T12:40:19.119] [INFO] console - Mongoose event { MongoNetworkError: failed to connect to server [192.168.0.5:27017] on first connect [MongoNetworkError: connection timed out]
+    at Pool.<anonymous> (/sandbox/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:198:13)
+    at createConnection (/sandbox/node_modules/mongodb/lib/core/connection/pool.js:561:14)
+    at connect (/sandbox/node_modules/mongodb/lib/core/connection/pool.js:994:11)
+    at makeConnection (/sandbox/node_modules/mongodb/lib/core/connection/connect.js:31:7)
+    at callback (/sandbox/node_modules/mongodb/lib/core/connection/connect.js:264:5)
+    at Socket.err (/sandbox/node_modules/mongodb/lib/core/connection/connect.js:294:7)
+    at Object.onceWrapper (events.js:286:20)
+    at Socket.emit (events.js:198:13)
+    at Socket._onTimeout (net.js:443:8)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+  name: 'MongoNetworkError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T12:41:50.763] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:41:50.765] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:41:50.765] [INFO] console - Mongoose event connecting
+[2020-04-14T12:41:50.788] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 865
+[2020-04-14T12:42:29.556] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:42:29.558] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:42:29.558] [INFO] console - Mongoose event connecting
+[2020-04-14T12:42:29.566] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 919
+[2020-04-14T12:42:59.573] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:42:59.574] [INFO] console - Mongoose event error
+[2020-04-14T12:42:59.574] [INFO] console - Mongoose event { MongooseServerSelectionError: connection timed out
+    at new MongooseServerSelectionError (/sandbox/node_modules/mongoose/lib/error/serverSelection.js:22:11)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:823:32)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+  message: 'connection timed out',
+  name: 'MongooseServerSelectionError',
+  reason:
+   TopologyDescription {
+     type: 'Single',
+     setName: null,
+     maxSetVersion: null,
+     maxElectionId: null,
+     servers: Map { '192.168.0.5:27017' => [ServerDescription] },
+     stale: false,
+     compatible: true,
+     compatibilityError: null,
+     logicalSessionTimeoutMinutes: null,
+     heartbeatFrequencyMS: 10000,
+     localThresholdMS: 15,
+     commonWireVersion: null },
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T12:43:30.843] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T12:43:30.845] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T12:43:30.845] [INFO] console - Mongoose event connecting
+[2020-04-14T12:43:30.854] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 986
+[2020-04-14T12:44:00.855] [INFO] console - Mongoose event disconnected
+[2020-04-14T12:44:00.856] [INFO] console - Mongoose event error
+[2020-04-14T12:44:00.856] [INFO] console - Mongoose event { MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at new MongooseServerSelectionError (/sandbox/node_modules/mongoose/lib/error/serverSelection.js:22:11)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:823:32)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+  message: 'connect ECONNREFUSED 127.0.0.1:27017',
+  name: 'MongooseServerSelectionError',
+  reason:
+   TopologyDescription {
+     type: 'Single',
+     setName: null,
+     maxSetVersion: null,
+     maxElectionId: null,
+     servers: Map { 'localhost:27017' => [ServerDescription] },
+     stale: false,
+     compatible: true,
+     compatibilityError: null,
+     logicalSessionTimeoutMinutes: null,
+     heartbeatFrequencyMS: 10000,
+     localThresholdMS: 15,
+     commonWireVersion: null },
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:18:40.422] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:18:40.426] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:18:40.427] [INFO] console - Mongoose event connecting
+[2020-04-14T13:18:40.434] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:18:40.436] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 79
+[2020-04-14T13:18:40.437] [INFO] console - Mongoose event error
+[2020-04-14T13:18:40.438] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:34:48.896] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:34:48.897] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:34:48.898] [INFO] console - Mongoose event connecting
+[2020-04-14T13:34:48.900] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:34:48.901] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 610
+[2020-04-14T13:34:48.902] [INFO] console - Mongoose event error
+[2020-04-14T13:34:48.902] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:36:09.319] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:36:09.321] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:36:09.321] [INFO] console - Mongoose event connecting
+[2020-04-14T13:36:09.324] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:36:09.325] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 685
+[2020-04-14T13:36:09.326] [INFO] console - Mongoose event error
+[2020-04-14T13:36:09.326] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:37:18.981] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:37:18.983] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:37:18.984] [INFO] console - Mongoose event connecting
+[2020-04-14T13:37:18.987] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:37:18.989] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 756
+[2020-04-14T13:37:18.989] [INFO] console - Mongoose event error
+[2020-04-14T13:37:18.990] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:38:32.424] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:38:32.426] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:38:32.426] [INFO] console - Mongoose event connecting
+[2020-04-14T13:38:32.429] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:38:32.430] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 830
+[2020-04-14T13:38:32.430] [INFO] console - Mongoose event error
+[2020-04-14T13:38:32.431] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:39:40.124] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:39:40.125] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:39:40.126] [INFO] console - Mongoose event connecting
+[2020-04-14T13:39:40.129] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:39:40.130] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 898
+[2020-04-14T13:39:40.130] [INFO] console - Mongoose event error
+[2020-04-14T13:39:40.130] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:39:59.778] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:39:59.780] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:39:59.780] [INFO] console - Mongoose event connecting
+[2020-04-14T13:39:59.783] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:39:59.783] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-14T13:39:59.784] [INFO] console - Mongoose event error
+[2020-04-14T13:39:59.784] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:41:19.575] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:41:19.576] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:41:19.576] [INFO] console - Mongoose event connecting
+[2020-04-14T13:41:19.579] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:41:19.579] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 159
+[2020-04-14T13:41:19.580] [INFO] console - Mongoose event error
+[2020-04-14T13:41:19.580] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:41:26.486] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:41:26.490] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:41:26.490] [INFO] console - Mongoose event connecting
+[2020-04-14T13:41:26.492] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:41:26.493] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 197
+[2020-04-14T13:41:26.494] [INFO] console - Mongoose event error
+[2020-04-14T13:41:26.494] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T13:49:11.535] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T13:49:11.537] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T13:49:11.537] [INFO] console - Mongoose event connecting
+[2020-04-14T13:49:11.540] [INFO] console - Mongoose event disconnected
+[2020-04-14T13:49:11.540] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 466
+[2020-04-14T13:49:11.541] [INFO] console - Mongoose event error
+[2020-04-14T13:49:11.541] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T17:52:19.204] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T17:52:19.206] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T17:52:19.206] [INFO] console - Mongoose event connecting
+[2020-04-14T17:52:19.209] [INFO] console - Mongoose event disconnected
+[2020-04-14T17:52:19.210] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 79
+[2020-04-14T17:52:19.211] [INFO] console - Mongoose event error
+[2020-04-14T17:52:19.211] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:43:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2020-04-14T19:16:44.527] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-14T19:16:44.529] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-14T19:16:44.529] [INFO] console - Mongoose event connecting
+[2020-04-14T19:16:44.531] [INFO] console - Mongoose event disconnected
+[2020-04-14T19:16:44.532] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-14T19:16:44.533] [INFO] console - Mongoose event error
+[2020-04-14T19:16:44.533] [INFO] console - Mongoose event { MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:41:21)
+    at parseConnectionString (/sandbox/node_modules/mongodb/lib/core/uri_parser.js:556:12)
+    at connect (/sandbox/node_modules/mongodb/lib/operations/connect.js:272:3)
+    at cb (/sandbox/node_modules/mongodb/lib/mongo_client.js:215:5)
+    at maybePromise (/sandbox/node_modules/mongodb/lib/utils.js:719:3)
+    at MongoClient.connect (/sandbox/node_modules/mongodb/lib/mongo_client.js:211:10)
+    at Promise (/sandbox/node_modules/mongoose/lib/connection.js:709:12)
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (/sandbox/node_modules/mongoose/lib/connection.js:706:19)
+    at Mongoose.connect (/sandbox/node_modules/mongoose/lib/index.js:333:15)
+    at initMongoose (/sandbox/app/mongoose/index.js:40:12)
+    at Object.<anonymous> (/sandbox/server.js:38:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+  name: 'MongoParseError',
+  [Symbol(mongoErrorContextSymbol)]: {} }

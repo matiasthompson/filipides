@@ -1,0 +1,62 @@
+[2020-04-25T22:26:18.142] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-25T22:26:18.146] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-25T22:26:18.148] [INFO] console - Mongoose event connecting
+[2020-04-25T22:26:18.157] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 78
+[2020-04-25T22:26:19.484] [INFO] console - Mongoose event connected
+[2020-04-25T22:26:19.487] [INFO] console - Mongoose event fullsetup
+[2020-04-25T22:26:19.488] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-25T23:44:04.421] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-25T23:44:04.428] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-25T23:44:04.430] [INFO] console - Mongoose event connecting
+[2020-04-25T23:44:04.441] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-25T23:44:05.724] [INFO] console - Mongoose event connected
+[2020-04-25T23:44:05.724] [INFO] console - Mongoose event fullsetup
+[2020-04-25T23:44:05.725] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:27:17.303] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:27:17.304] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:27:17.305] [INFO] console - Mongoose event connecting
+[2020-04-27T15:27:17.308] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 83
+[2020-04-27T15:27:18.576] [INFO] console - Mongoose event connected
+[2020-04-27T15:27:18.579] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:27:18.580] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:36:43.293] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:36:43.295] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:36:43.296] [INFO] console - Mongoose event connecting
+[2020-04-27T15:36:43.300] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 455
+[2020-04-27T15:36:44.687] [INFO] console - Mongoose event connected
+[2020-04-27T15:36:44.689] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:36:44.689] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:37:31.122] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:37:31.124] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:37:31.125] [INFO] console - Mongoose event connecting
+[2020-04-27T15:37:31.128] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 524
+[2020-04-27T15:37:32.364] [INFO] console - Mongoose event connected
+[2020-04-27T15:37:32.366] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:37:32.366] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T15:51:17.328] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T15:51:17.335] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T15:51:17.338] [INFO] console - Mongoose event connecting
+[2020-04-27T15:51:17.349] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-27T15:51:18.690] [INFO] console - Mongoose event connected
+[2020-04-27T15:51:18.691] [INFO] console - Mongoose event fullsetup
+[2020-04-27T15:51:18.691] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T16:04:17.916] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T16:04:17.921] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T16:04:17.923] [INFO] console - Mongoose event connecting
+[2020-04-27T16:04:17.931] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-27T16:04:19.172] [INFO] console - Mongoose event connected
+[2020-04-27T16:04:19.173] [INFO] console - Mongoose event fullsetup
+[2020-04-27T16:04:19.174] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T16:05:24.217] [ERROR] http - 190.191.244.160 - - "GET /src.f76da8d7.css HTTP/1.1" 404 155 "https://fiiw8.sse.codesandbox.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15"
+[2020-04-27T16:05:24.222] [ERROR] http - 190.191.244.160 - - "GET /src.ed4d9b7e.css HTTP/1.1" 404 155 "https://fiiw8.sse.codesandbox.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15"
+[2020-04-27T16:05:24.223] [ERROR] http - 190.191.244.160 - - "GET /src.a359a448.js HTTP/1.1" 404 154 "https://fiiw8.sse.codesandbox.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15"
+[2020-04-27T16:05:54.044] [ERROR] http - 190.191.244.160 - - "GET /src.f76da8d7.css HTTP/1.1" 404 155 "https://fiiw8.sse.codesandbox.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15"
+[2020-04-27T16:05:54.044] [ERROR] http - 190.191.244.160 - - "GET /src.ed4d9b7e.css HTTP/1.1" 404 155 "https://fiiw8.sse.codesandbox.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15"
+[2020-04-27T16:05:54.044] [ERROR] http - 190.191.244.160 - - "GET /src.a359a448.js HTTP/1.1" 404 154 "https://fiiw8.sse.codesandbox.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15"
+[2020-04-27T16:53:10.888] [INFO] console - ð Apollo Normal server ready at http://localhost:8080/filipides/app/graphql
+[2020-04-27T16:53:10.889] [INFO] console - ð Apollo PubSub server ready at ws://localhost:8080/filipides/app/graphql
+[2020-04-27T16:53:10.890] [INFO] console - Mongoose event connecting
+[2020-04-27T16:53:10.893] [INFO] console - ð Express server ready at http://localhost:8080/filipides/app  with PID: 76
+[2020-04-27T16:53:12.285] [INFO] console - Mongoose event connected
+[2020-04-27T16:53:12.286] [INFO] console - Connection to MongoDB Success! DB: (express-mongo), HOST: (127.0.0.1:27017)
+[2020-04-27T16:53:12.296] [INFO] console - Mongoose event fullsetup
